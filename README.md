@@ -1,0 +1,4 @@
+- Hello, I’m Awesome coolness
+- I’m interested in coding... 
+- I’m currently learning web development and python and maybe c++
+- I’m looking to collaborate on websites and... python stuff?
